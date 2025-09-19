@@ -52,7 +52,7 @@ body {
 }
 
 .logo-img {
-    max-height: 120px;
+            max-height: 195px; /* Increased by 62.5% from original 120px */
     width: auto;
     transition: all 0.3s ease;
 }
